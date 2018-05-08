@@ -1,3 +1,11 @@
-photo gray to color
+------LSTM----------
+
+----多变量LSTM预测模型建立-----
+https://zhuanlan.zhihu.com/p/28746221
+
+------photo gray to color----
 https://github.com/richzhang/colorization.git
 
+-----Common-------
+How to Convert a Time Series to a Supervised Learning Problem in Python
+https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/?spm=5176.100239.blogcont174270.13.3q6FYx
