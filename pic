@@ -1,4 +1,9 @@
 --convert picture format---
+convert a.jpg b.jpg c.jpg +append d.jpg
+convert a.jpg b.jpg c.jpg -append d.jpg
+convert -resize 600x400 a.jpg b.jpg
+convert -resize 600 a.jpg b.jpg
+convert -resize x400 a.jpg b.jpg
 ls | xargs -I {} convert -resize 128x128 {} {}
 mogrify -format jpg *.png 
 convert image.png image.jpg
