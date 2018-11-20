@@ -1,3 +1,7 @@
+--CRNN---
+https://arxiv.org/pdf/1702.06286.pdf sound event detect
+https://arxiv.org/pdf/1609.04243.pdf music classification
+
 --cnn-predict---
 https://github.com/ZezhouLi/Convolutional-Networks-for-Stock-Predicting
 
