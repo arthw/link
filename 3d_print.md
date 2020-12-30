@@ -1,6 +1,8 @@
 ### generotar
 https://www.thingiverse.com/thing:3324923
 
+https://www.thingiverse.com/thing:633603
+
 ### robot arm
 
 https://github.com/uStepper/uStepper-RobotArm-Rev3
