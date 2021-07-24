@@ -1,3 +1,7 @@
+--reinforcement learning
+  --ping pang
+  http://karpathy.github.io/2016/05/31/rl/  
+
 --robot
 https://github.com/PhilipZRH/ferm
 
