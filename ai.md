@@ -1,3 +1,6 @@
+--chat
+https://github.com/imartinez/privateGPT
+
 --reinforcement learning
   --ping pang
   http://karpathy.github.io/2016/05/31/rl/  
